@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DD14531D-5ACF-4227-974D-986455327D4E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C616163-818C-4FFF-BC92-E20E52A6FF4F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SegementDemo/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "-titleBtnClick"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4C616163-818C-4FFF-BC92-E20E52A6FF4F - 14330fa68925eae9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController titleBtnClick]"
+                  moduleName = "SegementDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zengyanbu/Desktop/SegementDemo/SegementDemo/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  uuid = "4C616163-818C-4FFF-BC92-E20E52A6FF4F - ab4470fa4bd1bd71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__31-[ViewController titleBtnClick]_block_invoke"
+                  moduleName = "SegementDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zengyanbu/Desktop/SegementDemo/SegementDemo/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
